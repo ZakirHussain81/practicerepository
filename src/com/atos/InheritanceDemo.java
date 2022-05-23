@@ -6,6 +6,9 @@ import com.shapes.*;
 public class InheritanceDemo {
 
 	public static void main(String[] args) {
+		
+		System.out.println("changes made");
+		
       //Employee emp = new Employee(101,"Zakir","Developer");//
       //System.out.println(emp);//
       
